@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f5382c2ea5b049d48bd1740fd69a192, type: 3}
+  m_Name: Produce
+  m_EditorClassIdentifier: 
+  description: 
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 2a838e39bbb9e4f3f8b2714a93476f2a, type: 2}
+    chanceToSpawn: 1
+  - ingredient: {fileID: 11400000, guid: 7e2b790e07f484f81b64f554ce81d73a, type: 2}
+    chanceToSpawn: 0.5
+  - ingredient: {fileID: 11400000, guid: 84d9f5babfb0b4aef9009e6f2228dee2, type: 2}
+    chanceToSpawn: 0.5
+  - ingredient: {fileID: 11400000, guid: 4250773335bec4a138d3d5df704a0a3a, type: 2}
+    chanceToSpawn: 0.64
+  - ingredient: {fileID: 11400000, guid: 8416409f7d0ea46c18887abd9e4df7d2, type: 2}
+    chanceToSpawn: 0.84

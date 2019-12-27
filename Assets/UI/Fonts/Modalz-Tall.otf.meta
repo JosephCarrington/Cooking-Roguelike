@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bb27e6966587340948fe8a81b5e30cc5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Modalz
+  fontNames:
+  - Modalz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19c12c83dea5f4669b8ebc0db0706bd1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

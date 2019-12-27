@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6776ef2650ee34292bc030e1c1bbb173, type: 3}
+  m_Name: Supermarket
+  m_EditorClassIdentifier: 
+  description: Generic supermarket.
+  aisles:
+  - {fileID: 11400000, guid: 52e1e14b89f3f4ded81511d244d78651, type: 2}
+  - {fileID: 11400000, guid: 322698148363d4c91a4e14c3b2494472, type: 2}
